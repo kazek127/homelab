@@ -42,3 +42,5 @@ spec:
       enabled: true
       alertmanagerSpec:
         retention: 120h
+    prometheus-node-exporter:
+      enabled: false
